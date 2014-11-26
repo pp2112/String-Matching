@@ -3,11 +3,11 @@ This code was written in Java using the Eclipse IDE.
 To run the Demo file, navigate to the bin folder and run "java demo.Demo" in terminal. 
 The code is structured into several packages as mentioned below:
 
--  The "interfaces" package consists of the API method signatures as defined in the spec.
--  The "concrete_implementation" package consists of the interface implementation of the StringMatcher 
--  The "data_structures package" consists of the data structure implementations used for this task.
--  The "demo" package consists of the Demo.java file which consists of the test runs provided at the end of the task.
--  the "tests" package consists of some JUnit tests which test the correctness of the basic functionality.
+-The "interfaces" package consists of the API method signatures as defined in the spec.
+-The "concrete_implementation" package consists of the interface implementation of the StringMatcher 
+-The "data_structures package" consists of the data structure implementations used for this task.
+-The "demo" package consists of the Demo.java file which consists of the test runs provided at the end of the task.
+-The "tests" package consists of some JUnit tests which test the correctness of the basic functionality.
 
 
 Design Choices:
